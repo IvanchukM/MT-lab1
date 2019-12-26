@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MT-lab1</string>
+    <string name="name">TicTacToe</string>
+    <string name="valueX">X</string>
+    <string name="valueO">O</string>
+    <string name="restart_game">Restart Game</string>
+</resources>
